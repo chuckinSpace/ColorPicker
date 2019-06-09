@@ -56,7 +56,7 @@ export class NavBar extends Component {
           </div>
         </div>
         <div className="select-container">
-          <InputLabel className="Navbar-format-text">Format</InputLabel>
+          <InputLabel className="Navbar-format-text">HOLAAAAA</InputLabel>
           <NativeSelect
             className="Navbar-format-options"
             value={format}
